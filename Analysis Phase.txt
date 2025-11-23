@@ -1,0 +1,33 @@
+Analysis in Software Development 
+
+1. The Analysis Phase in Software Development 
+
+Definition & Importance The Analysis Phase (also called Requirements Analysis) is the second step in the SDLC, bridging planning and design. It ensures stakeholder needs are captured, documented, and validated before development begins. Importance: Prevents costly redesigns, aligns business goals, and sets a clear foundation for design and coding. 
+
+Sub-Steps 
+
+Requirement Gathering: Interviews, surveys, workshops with stakeholders. 
+
+Feasibility Study: Technical, operational, and economic feasibility checks. 
+
+Requirement Analysis: Categorizing functional vs. non-functional requirements. 
+
+Modeling: Use cases, data flow diagrams, ER diagrams. 
+
+Validation: Confirming requirements with stakeholders. 
+
+Deliverables & Outcomes 
+
+Software Requirement Specification (SRS) document 
+
+Use case diagrams and process models 
+
+Prioritized requirement list 
+
+Risk analysis report 
+
+Best Practices & Challenges 
+
+Best Practices: Engage stakeholders early, document clearly, validate continuously. 
+
+Challenges: Ambiguous requirements, scope creep, miscommunication. 
