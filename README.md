@@ -5,4 +5,4 @@ Complete Banking System Example
 <img width="513" height="343" alt="image" src="https://github.com/user-attachments/assets/e840a09e-bed2-4a66-ad70-8005c3b53607" />
 
 
-<img width="513" height="343" alt="image" src="https://github.com/user-attachments/assets/90ff0e3d-92f4-480c-a386-b653d5e0dfce" />
+<img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/754a134b-0fae-4d05-803c-a0f9960c4c94" />
