@@ -1,0 +1,4 @@
+
+Hospital Management System – Key Information
+ Definition
+A Hospital Management System is a comprehensive digital platform that automates and integrates hospital operations. It covers both clinical functions (like patient records, lab results, prescriptions) and administrative functions (like billing, staff management, inventory, and reporting)
