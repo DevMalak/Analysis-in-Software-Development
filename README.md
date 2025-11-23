@@ -14,3 +14,8 @@ Hospital Management System (HMS)
 
 
 <img width="438" height="267" alt="image" src="https://github.com/user-attachments/assets/1f9e9719-7e0f-467c-a10a-231e6b488122" />
+
+Complete Hotel Management System Example
+Product Backlog (Sample User Stories)
+<img width="469" height="579" alt="image" src="https://github.com/user-attachments/assets/5d83ee40-f848-485f-9b5e-44facb8c507e" />
+<img width="502" height="307" alt="image" src="https://github.com/user-attachments/assets/bcdb7fea-d68a-4256-915c-8300d5b6ed0d" />
