@@ -1,0 +1,29 @@
+ Product Backlog Development 
+
+Definition & Purpose A Product Backlog is a dynamic, ordered list of features, enhancements, and fixes that represent everything needed in the product. Purpose: Serves as the single source of truth for development work. 
+
+Creation & Structure 
+
+Items: Features, bugs, technical tasks, research spikes. 
+
+Format: User stories, epics, tasks. 
+
+Organized by priority and business value. 
+
+Prioritization Techniques 
+
+MoSCoW (Must, Should, Could, Won’t) 
+
+RICE (Reach, Impact, Confidence, Effort) 
+
+Kano Model (Basic, Performance, Excitement features) 
+
+WSJF (Weighted Shortest Job First) 
+
+Refinement & Maintenance 
+
+Regular backlog grooming sessions 
+
+Splitting large epics into smaller stories 
+
+Re-prioritizing based on feedback and market changes 
