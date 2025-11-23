@@ -1,0 +1,25 @@
+1. Account Creation
+User Story: As a new customer, I want to open a bank account online so that I can start using banking services.
+
+Acceptance Criteria:
+
+User can fill out a registration form with required details (name, email, phone, ID).
+
+System validates mandatory fields and unique identifiers (e.g., email, ID number).
+
+Account number is automatically generated upon successful registration.
+
+Confirmation email/SMS is sent to the customer.
+
+2. User Authentication
+User Story: As a customer, I want to securely log in with two-factor authentication so that my account is protected.
+
+Acceptance Criteria:
+
+Login requires valid username and password.
+
+A one-time code is sent via SMS/email for 2FA.
+
+Access is denied after 3 failed attempts.
+
+Successful login redirects to the account dashboard.
