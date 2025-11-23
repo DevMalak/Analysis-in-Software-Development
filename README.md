@@ -10,4 +10,9 @@ Complete Banking System Example
 
 Hospital Management System (HMS)
 
-<img width="519" height="637" alt="image" src="https://github.com/user-attachments/assets/d3a8fbb4-c5bc-4fbe-862b-41c8ec638847" /><img width="438" height="267" alt="image" src="https://github.com/user-attachments/assets/1f9e9719-7e0f-467c-a10a-231e6b488122" />
+<img width="519" height="637" alt="image" src="https://github.com/user-attachments/assets/d3a8fbb4-c5bc-4fbe-862b-41c8ec638847" />
+
+
+
+
+<img width="438" height="267" alt="image" src="https://github.com/user-attachments/assets/1f9e9719-7e0f-467c-a10a-231e6b488122" />
