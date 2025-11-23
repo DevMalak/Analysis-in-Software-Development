@@ -1,0 +1,19 @@
+ User Stories 
+
+Definition & Format A User Story is a short, simple description of a feature from the end-user’s perspective. Format: As a [persona], I want [goal] so that [benefit]. 
+
+Writing Effective User Stories 
+
+Keep them small and testable 
+
+Focus on user value 
+
+Avoid technical jargon 
+
+Acceptance Criteria 
+
+Define conditions for story completion 
+
+Ensure clarity for developers and testers 
+
+Prevent scope creep 
