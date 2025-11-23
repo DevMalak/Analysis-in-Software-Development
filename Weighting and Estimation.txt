@@ -1,0 +1,19 @@
+Weighting and Estimation 
+
+Story Point Estimation Story points measure relative effort based on complexity, risk, and uncertainty. 
+
+Techniques 
+
+Planning Poker: Team votes using Fibonacci numbers. 
+
+T-Shirt Sizing: XS, S, M, L, XL for rough effort. 
+
+Dot Voting: Quick prioritization by team consensus. 
+
+Weighting User Stories 
+
+Complexity: Technical difficulty. 
+
+Priority: Business urgency. 
+
+Business Value: ROI or customer impact. 
